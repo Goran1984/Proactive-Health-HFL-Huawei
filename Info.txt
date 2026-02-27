@@ -1,1 +1,3 @@
-
+First excute the file Synthe-LSTM, for ensuring the MIndSpore enviroment setup and the to generate the synthetic dataset as desired for the hirarchical federated learning. After excuting the whole file the results for LSTM medication prediction will be generated for each cities and the country.
+Secondly, run the Synthetic SVM, which it will use the same created dataset generated in the previuse section to generate the rusults for anomally ditection of used medication.
+Lastly run the Real--LSTM, but before running you should download the created real dataset from Kagel repository and put it in the same directory as this file to get access to it.
